@@ -1,0 +1,97 @@
+Operating System
+
+
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+
+VS Code
+
+
+
+.vscode/
+
+
+
+# JetBrains IDEs
+
+
+
+.idea/
+
+
+
+# Python
+
+
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+
+
+
+# Logs
+
+
+
+*.log
+
+
+
+# Environment / Secrets
+
+
+
+.env
+.env.*
+
+
+
+# Network Capture Files
+
+
+
+*.pcap
+*.pcapng
+*.cap
+
+
+
+# Archives
+
+
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+
+
+# Temporary Files
+
+
+
+*.tmp
+*.temp
+*.bak
+*.swp
+
+
+
+# Executables
+
+
+
+*.exe
+*.dll
+*.so
+*.o
